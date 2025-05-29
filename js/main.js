@@ -88,7 +88,7 @@ function main() {
   	});	
 
 }());
-
+}
 function loadGoogleForm() {
   const value = document.getElementById("service-select").value;
   const container = document.getElementById("google-form-container");
@@ -117,5 +117,5 @@ function loadGoogleForm() {
   }
 }
 
-}
+
 main();
