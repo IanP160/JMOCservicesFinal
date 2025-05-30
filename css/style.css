@@ -1,6 +1,25 @@
-.form-label, .form-control, .form-select {
-  color: #FFFFFF;
-  background-color: #1B3A2B;
+#quote select.form-select {
+  background-color: #fff;
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+  appearance: none;
+}
+
+#quote h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 30px;
 }
 
 body, html {
