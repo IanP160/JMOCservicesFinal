@@ -1,6 +1,6 @@
 #quote select.form-select {
-  background-color: #fff;
-  color: #333;
+  background-color: #f9f9f9;     /* Light background */
+  color: #333;                   /* Dark readable text */
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   padding: 12px 15px;
